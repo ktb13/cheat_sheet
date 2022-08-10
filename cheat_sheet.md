@@ -15,3 +15,17 @@ This is a cheat sheet listing some popular commands
 "git revert" Creates a new commit that is the opposite of the given commit
 
 "git push" Pushes all changes made to work, ready to be saved on a remote repository. 
+
+"git branch <newbranchname>" Creates a new branch
+
+"git branch" Gives info on which branch you are in
+
+"git checkout <branchname>" Switches to a different branch
+
+"git checked -b <newbranchname>" Creates a new branch and switches to that new branch
+
+
+"git push origin <branchname>" Saves changes to a branch on github that is not master
+
+"git merge <branchname>"  Combines two branches 
+
